@@ -18,7 +18,7 @@ def get_data():
         SELECT state, strftime('%Y', year) as year, count(*) as shootings_count, gender
         FROM TGcomb
         GROUP BY state, year, gender
-        ORDER BY state, year,gender
+        ORDER BY state, year
     """
 
     # Execute the query
