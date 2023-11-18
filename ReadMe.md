@@ -173,7 +173,9 @@ Improvements:
 To enhance interactivity, consider adding tooltips that display the exact number of shootings when hovering over each bar.
 You may further refine the color scheme or choose colors that are more accessible for individuals with color vision deficiencies.
 For a more comprehensive analysis, additional annotations or insights could be incorporated into the chart.
+![Screenshot (82)](https://github.com/Davis-Ty/Assignment3/assets/55100272/24ac546e-7503-4c29-a413-c26a32259fe5)
 
 # Task5
 
-- (Link)
+
+![Screenshot (81)](https://github.com/Davis-Ty/Assignment3/assets/55100272/8ffbb0b5-9158-4f1b-88fb-ddd2a0a33fdf)
